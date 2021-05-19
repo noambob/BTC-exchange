@@ -1,0 +1,17 @@
+{
+  "name": "torii",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "airtable": "^0.11.0",
+    "bitstamp": "^1.0.6",
+    "request": "^2.88.2"
+  }
+}
